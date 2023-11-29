@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Galaga-Raylib", "Galaga-Raylib\Galaga-Raylib.csproj", "{F4704E66-C46E-4469-BD33-90BBF79E9000}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F4704E66-C46E-4469-BD33-90BBF79E9000}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4704E66-C46E-4469-BD33-90BBF79E9000}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4704E66-C46E-4469-BD33-90BBF79E9000}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4704E66-C46E-4469-BD33-90BBF79E9000}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {49E5ADE4-9165-4D1B-A064-C967DF37ACFC}
+	EndGlobalSection
+EndGlobal
