@@ -134,11 +134,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\emi_p\\OneDrive\\Desktop\\Galaga-Raylib\\Galaga-Raylib\\Galaga-Raylib.csproj",
+      "projectUniqueName": "C:\\Users\\emi_p\\OneDrive\\Desktop\\Galaga-Raylib\\Glaga-Raylib\\Galaga-Raylib\\Galaga-Raylib.csproj",
       "projectName": "Galaga-Raylib",
-      "projectPath": "C:\\Users\\emi_p\\OneDrive\\Desktop\\Galaga-Raylib\\Galaga-Raylib\\Galaga-Raylib.csproj",
+      "projectPath": "C:\\Users\\emi_p\\OneDrive\\Desktop\\Galaga-Raylib\\Glaga-Raylib\\Galaga-Raylib\\Galaga-Raylib.csproj",
       "packagesPath": "C:\\Users\\emi_p\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\emi_p\\OneDrive\\Desktop\\Galaga-Raylib\\Galaga-Raylib\\obj\\",
+      "outputPath": "C:\\Users\\emi_p\\OneDrive\\Desktop\\Galaga-Raylib\\Glaga-Raylib\\Galaga-Raylib\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
